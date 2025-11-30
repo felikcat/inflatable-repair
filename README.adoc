@@ -101,8 +101,9 @@ image:flat_seams.jpg[480,240]
 
 === The Procedure
 . Purchase glue:
-** https://rhadhesives.com/product/hh-66-vinyl-cement-product/[HH-66 Vinyl Cement] (gold standard, though availability varies by country).
-** https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive] (higher price, easier application but lower quality).
+** Boxer Vinyl Adhesive #100 16oz / 1 pint. The best, but at a high price.
+** https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive]. An alternative to Boxer Vinyl Adhesive if you can't source it in your country.
+** https://rhadhesives.com/product/hh-66-vinyl-cement-toluene-free-2[HH-66 Toluene Free Vinyl Cement]. Cheap in bulk; do not buy the variant containing Toluene.
 
 . Acquire tools:
 ** Rotary cutter: https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic model] for ease and replaceable blades.
@@ -153,6 +154,9 @@ image:correct_vinyl_strip.png[480,480]
 . Leaks can be deeper inside vinyl instead of at the edges, meaning gluing the edges wouldn't fully solve the issue. Press and feel around the leak, try to make bubbles come out from the pressure of your finger(s).
 ** If it's multi-layered vinyl, you may have to create a 19 gauge needle sized hole and inject glue in if the leak is deep.
 
+== Removing glue
+Use Acetone applied to a Q-tip and gently work your way into the vinyl glue you plan on removing.
+
 == Inflation Tools
 * Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport].
 * Automatic options: MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] at 4.0HP (best overall). For non-U.S. outlets: https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
@@ -161,13 +165,12 @@ image:correct_vinyl_strip.png[480,480]
 
 == Plasticizer section
 
-=== DINP or ATBC?
-- DINP has greater elasticity, does not damage paint, and reduces leaching from skin oils or sunlight. May prevent paint cracking by enhancing flexibility.
-
-- ATBC is safer health-wise but harmful to inflatables; I will offer no assistance for it.
-** DINP's risks are lower than other phthalates (e.g., DEP, DEHP), especially non-aerosol forms. DINCH would be better, however I do not know how to source it.
+=== DINP or ATBC (and other non-phthalates)?
+- DINP has greater elasticity, does not damage any types of paint, and reduces leaching from skin oils or sunlight. It also prevents vinyl paint cracking due to the greater elasticity. Its longevity is also a strong suit that non-phthalates lack.
 
 === Key Studies on DINP Health Effects (read in order)
+The conclusion from these studies: DINP's risks are lower than other phthalates (e.g., DEP, DEHP); the main risk with phthalates however is if they're in aerosol form. DINP can be considered as non-harmful to humans for the inflatable treatment use case.
+
 . https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/[Critical Review on the Presence of Phthalates in Food and Evidence of Their Biological Impact]
 . https://pmc.ncbi.nlm.nih.gov/articles/PMC8677456/[The Impact of Di-Isononyl Phthalate Exposure on Specialized Epithelial Cells in the Colon]
 . https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf[Consumer and Indoor Exposure Assessment for Diisononyl Phthalate (DINP) +
@@ -189,8 +192,9 @@ Technical Support Document for the Risk Evaluation]
 
 . Beware of diluted products (e.g., with sunflower oil, harmful to inflatables).
 
-=== Recommended Sellers
+=== Plasticizer sellers
 . https://inflationresource.org/product/dinp/[Inflationresource]
+. https://vinylvibestudio.co/[Vinyl Vibe Studio], I don't recommend them due to being overpriced and for not selling DINP. If you need to be convinced that DINP is the best, get a bunch of Intex whales (modern ones are treated with DINCH) and treat them with each plasticizer separately and compare. Keep in mind that the longevity of alternatives to DINP is poor.
 
 == Enlarging an Inflatable
 CAUTION: This weakens seams and causes permanent deformation.
