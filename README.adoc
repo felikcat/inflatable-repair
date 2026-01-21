@@ -10,15 +10,6 @@ endif::[]
 :imagesdir: Images/
 :toc:
 
-== Visual Tutorials and Education
-
-The following resources are recommended in order from most to least preferred:
-
-. https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
-. https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon]'s how-to and tutorials playlist.
-** Note: Ignore the following videos due to low quality: "Removing the Safety Flaps from Inflatable Toy Valves" and "Replacing Valves on Inflatable Toys".
-. https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
-
 == Storage Guidelines
 
 . To store an inflatable safely without damaging paint or seams (this method is not space-efficient but is the safest, as it minimizes bent corners):
@@ -83,7 +74,7 @@ To find leaks effectively:
 ** Avoid working near electronics, as sparks with fumes can cause flash fires.
 ** Wear a gas mask or painter respirator, such as the https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series]. Cheaper options like 3M exist but may require frequent replacement.
 
-. Handle vinyl glue with latex gloves, as it is toxic before drying. Avoid both nitrile and vinyl gloves as it'll stick to the glue.
+. As vinyl glue is toxic before dying, handle it using polyethylene gloves. Avoid both nitrile and vinyl gloves as it'll stick to the glue, and avoid latex gloves as the MEK solvent in the vinyl glue will dissolve the latex.
 
 . Use vinyl no thicker than 0.4mm (16 gauge/16 mil) for patches or reinforcements. Thicker vinyl (0.6mm+) is difficult to cut, adheres poorly, and stresses surrounding material. For 0.3mm (12 gauge/12 mil) inflatables (e.g., from Inflatable World), match the thickness.
 
@@ -113,7 +104,7 @@ image:flat_seams.jpg[480,240]
 
 ** Painters tape: https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B008WZZ11S[ScotchBlue 1.88 inch x 60 yards]. Other brands can have an issue with being too sticky. Going above 2cm wide for vinyl strips is usually not recommended, therefore we don't need painters tape wider than this.
 
-** Latex gloves: Get them lightly powdered to make it easy to slip on and off.
+** Polyethylene gloves: Get the ones considered as "food safe grade" / for food prep.
 
 ** Practice items: Multiple https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas] for chamber separation and seam reinforcement; https://www.amazon.com/Intex-Unicorn-Inflatable-Ride-Float/dp/B073685W74[Intex Unicorn Ride-Ons] for negative seams.
 
@@ -155,7 +146,9 @@ image:correct_vinyl_strip.png[480,480]
 ** If it's multi-layered vinyl, you may have to create a 19 gauge needle sized hole and inject glue in if the leak is deep.
 
 == Removing glue
-Use Acetone applied to a Q-tip and gently work your way into the vinyl glue you plan on removing.
+Use Acetone applied to a lint-free microfiber cloth or a blunt-tip syringe and gently work your way into the vinyl glue you plan on removing.
+
+Do not use Q-tips (cotton swabs), their cotton fibers will get stuck, which will ruin the finish of the vinyl. 
 
 == Inflation Tools
 * Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport].
@@ -180,7 +173,7 @@ Technical Support Document for the Risk Evaluation]
 . There is higher exposure from mouthing DINP-treated vinyl (per EPA) than touching it. Touching it is safe once DINP is absorbed into the inflatable.
 ** In the European Union they've restricted usage of DINP in toys that can be taken into the mouth.
 
-. Use latex gloves during application.
+. Use polyethylene gloves during application.
 
 . Wash if there's skin contact with HH-66 glue or DINP immediately.
 
@@ -194,7 +187,7 @@ Technical Support Document for the Risk Evaluation]
 
 === Plasticizer sellers
 . https://inflationresource.org/product/dinp/[Inflationresource]
-. https://vinylvibestudio.co/[Vinyl Vibe Studio], I don't recommend them due to being overpriced and for not selling DINP. If you need to be convinced that DINP is the best, get a bunch of Intex whales (modern ones are treated with DINCH) and treat them with each plasticizer separately and compare. Keep in mind that the longevity of alternatives to DINP is poor.
+. https://vinylvibestudio.co/[Vinyl Vibe Studio], I don't recommend them due to being overpriced and for not selling DINP. If you need to be convinced that DINP is the best, get a bunch of Intex whales (modern ones are treated with DINCH) and treat them with each plasticizer separately and compare. Keep in mind that the longevity of alternatives to DINP is poor except for TOTH (but TOTH is "stiff").
 
 == Enlarging an Inflatable
 CAUTION: This weakens seams and causes permanent deformation.
@@ -217,6 +210,15 @@ CAUTION: This weakens seams and causes permanent deformation.
 == [TODO] Replacing Vinyl Plugs/Valves
 .Large valves (for all but small chambers like ears):
 . From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] (overpriced but fast shipping).
+
+== Video Tutorials/Education
+
+The following resources are recommended in order from most to least preferred:
+
+. https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
+. https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon]'s how-to and tutorials playlist.
+** Note: Ignore the following videos due to low quality: "Removing the Safety Flaps from Inflatable Toy Valves" and "Replacing Valves on Inflatable Toys".
+. https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
 
 == Appendices
 . Some images were sourced from:
