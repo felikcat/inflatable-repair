@@ -100,10 +100,10 @@ Don't use random stuff from the hardware store.
 
 . **The Gear:**
 ** *Cutting:* https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa 60mm Rotary Cutter] + Self-healing mat.
-** *Trimming:* https://www.amazon.com/Swingline-Trimmer-Guillotine-Capacity-ClassicCut/dp/B016LDV41S[12" Paper Guillotine] (great at making strips) and good scissors (Tim Holtz Titanium).
+** *Trimming:* https://www.amazon.com/Swingline-Trimmer-Guillotine-Capacity-ClassicCut/dp/B016LDV41S[12" Paper Guillotine] (great at making strips) and good scissors (Tim Holtz Titanium). Use a https://www.amazon.com/Tim-Holtz-Small-Titanium-Scissors/dp/B0013JNERS[7 inch] scissor for trimming small miscuts, and a https://www.amazon.com/Tim-Holtz-Scissors-All-Purpose/dp/B00JG9OV5G[9.5 inch] for larger miscuts. 
 ** *Applying:* https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[Rubber Brayer] and 10mL syringes with 19-gauge blunt tips.
 ** *Protection:* https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B008WZZ11S[ScotchBlue Painter's Tape] and "Food Safe" Polyethylene gloves.
-** *Practice Inflatables:* https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas].
+** *Practice Inflatables:* https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas] for chamber separation and seam reinforcement, https://www.amazon.com/Intex-Unicorn-Inflatable-Ride-Float/dp/B073685W74[Intex Unicorn Ride-ons] for negative seams.
 
 === Safety
 
@@ -126,10 +126,12 @@ image:flat_seams.jpg[480,240]
 
 . **Prep:** Clean the area with alcohol. Test a small spot first to make sure it doesn't strip paint.
 ** If you want to be 100% sure, use a UV flashlight to inspect. The list of the https://1lumen.com/best-uv-flashlight/[best UV flashlights] at their given price points, and the https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[safety goggles] you'll need to protect yourself from the UV light.
-. **Cut:** Make your vinyl strips exactly 2cm wide. Use your guillotine cutter initially to make the strips in bulk, then perfect the cuts with a rotary cutter and/or scissors if needed.
+. **Cut:** Make your vinyl strips exactly 2cm (3/4") wide. Use your guillotine cutter initially to make the strips in bulk, then perfect the cuts with a rotary cutter and/or scissors if needed.
 . **Glue:**
 ** Fill your syringe (tap out air bubbles!).
+** Work in sections, don't try to glue too much at one time otherwise it becomes too difficult.
 ** Apply a thin, even layer *on the strip*, not the toy.
+** Avoid excess glue in a given area; too much leads to the vinyl not sticking for HH-66.
 ** Do at least two coats (let the first one dry/tack up).
 . **Apply:**
 ** Press it down. Use the brayer or most of your hands.
@@ -147,7 +149,7 @@ image:correct_vinyl_strip.png[480,480]
 * **Pinholes:** You can glue these while the toy is inflated. The escaping air won't stop the glue from sticking. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[See video].
 * **Deep Leaks:** If the leak is between layers, you might need to poke a tiny needle hole to inject glue inside.
 * **Printed Vinyl:** Glue doesn't stick to ink well. Tape the tear, cut a slit from the back, patch the inside (white-to-white), then patch your access slit.
-* **Stress Zones:** On an inflatable suit, for the armpits/crotch regions, use an "X" pattern with 3/4" strips.
+* **Stress Zones:** On an inflatable suit, for the armpits/crotch regions, use an "X" pattern with 2cm (3/4") strips.
 * **Cleaning up glue:** Acetone or https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner]. Use a syringe or lint-free cloth. **Never** use Q-tips (cotton fibers ruin the finish).
 
 === Material Thickness Guide
