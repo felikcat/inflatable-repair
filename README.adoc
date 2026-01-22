@@ -10,221 +10,194 @@ endif::[]
 :imagesdir: Images/
 :toc:
 
-== Storage Guidelines
+== Living with Inflatables (Storage, Cleaning, Inflation)
 
-. To store an inflatable safely without damaging paint or seams (this method is not space-efficient but is the safest, as it minimizes bent corners):
-** Remove all air from the chambers but leave the valves open.
-** Lay out all seams flat.
-** Roll the inflatable either clockwise or counterclockwise.
-** Close the valves quickly after rolling to expel any remaining air.
+Keeping your gear in top shape starts with how you treat it when you're not patching it. Here’s the rundown on daily care.
 
-. Use undyed and unwaxed cotton bags (also known as canvas bags) for storing vinyl or latex inflatables. These bags should be similar in color to the following example: +
+=== Storing your gear
+If you want your inflatables to last, don't just shove them in a bin.
+
+. **The safest way to pack (downside: takes up more space):**
+* Squeeze all the air out but keep the valves open.
+* Lay everything flat including the seams.
+* Roll it up (clockwise or counter-clockwise, doesn't matter).
+* Close the valves fast to trap that vacuum state, or force that state by using a hand or electric pump.
+
+. **The Bag Situation:**
+** *Good:* Undyed, unwaxed cotton/canvas bags. They breathe. +
 image:LEAFICO_cotton_bags.jpg[480,240]
+** *Bad:* Plastic bags (Ziploc, etc.), they leach plasticizers and can trap in mold.
+** *Bad:* Dyed fabric bags, they *will* stain your vinyl.
+** *Bad:* Anything that seals airtight, if there was any moisture it may grow mold.
 
-. Avoid storing inflatables in:
-** Plastic bags (e.g., Ziploc), as they leach plasticizers.
-** Dyed or pigmented fabric bags, as they can permanently stain vinyl.
+. **Where to put them:**
+** Keep them cool. Hot cars are death traps for soft vinyl (plasticizer migration = brittle toy).
+** Don't hang them up.
+** If you have items with ATBC plasticizer (instead of DINP), don't let the vinyl touch itself or it might bond. Use thin 1/16" foam sheets between layers, or powder them (corn starch for vinyl, unscented talc for latex -- though talc is messy).
+** Always put a https://www.amazon.com/Dry-Premium-Packets-Desiccant-Dehumidifiers/dp/B01A0782Q6[300g Rechargable Silica Gel] inside of each undyed cotton bag, it will keep out moisture and can be "recharged" to make it reusable again. You will have to check the weight of the Silica Gel every month to be able to tell on whether to "recharge" it.
 
-. If inflating with lung air (via mouth):
-** Deflate the item first.
-** Re-inflate with dry air to dry out the interior and prevent mold buildup.
-** Note: Vinyl can also mold externally, but cotton bags allow airflow, reducing this risk.
 
-. For long-term storage, avoid:
-** Hanging vinyl or latex items on a hanger.
-** Allowing vinyl or latex to touch itself if using ATBC plasticizer (instead of DINP). To prevent sticking, place thin foam sheets (1/16" thickness) between layers. Alternatively, use corn starch for vinyl or unscented talcum powder for latex (though messier).
+. **A note on lung inflation:**
+If you blow them up by mouth, you're putting moisture inside. Always re-inflate with dry air later to dry them out so mold doesn't grow inside. Cotton bags help with airflow, but dry air is better.
 
-. Materials harmful to vinyl upon contact:
-** Baby oil, coconut oil, mineral oil, silicone-based lube, vegetable oil, lithium grease, WD-40 (and other solvent-containing sprays).
-** Concentrated dish soap (non-concentrated dish soap is safe for both vinyl and latex).
-** Water-based lube and petroleum jelly (Vaseline) are safe short-term for vinyl but unsafe for latex; wash off promptly.
-** Non-vinyl glues, such as Gorilla Glue or other superglue products.
-** Duct tape or other tapes not designed for vinyl.
+=== Keeping them clean
+Regular maintenance keeps the inflatable happy.
 
-== Cleaning Procedures
+* **Scuffs:** Try a dry pencil eraser first. If that fails, add a little water and erase again.
+* **Routine Wash (every few days of use):**
+** Mix a spray bottle (32oz/950mL): Half warm water, 4 tbsp (60mL) non-concentrated dish soap, then top off with warm water.
+** *Warning:* Don't use hot water (>100°F/38°C) inside the toy, or the glue might reactivate and stick the sides together.
+** Wipe down with one microfiber cloth, dry with another.
+* **Sanitizing (post-party/event):**
+** Do the Routine Wash.
+** Blast it with a floor fan for 15+ mins.
+* **Drying the inside:**
+** Stick a fan tube into the valves to circulate air.
+** Use a dehumidifier if it's really damp.
 
-Regular cleaning maintains the inflatable's condition. Use these methods:
+=== What NOT to use (The "Do Not Touch" List)
+These things will ruin vinyl:
 
-* To remove marks or scuffs, use a dry pencil eraser first. If ineffective, wet the area with water and try erasing again.
+* **Oils:** Baby oil, coconut oil, mineral oil, veggie oil.
+* **Solvents:** WD-40, lithium grease, most sprays.
+* **Soaps:** Concentrated dish soap (stick to non-concentrated).
+* **Glues:** Gorilla Glue, Superglue (unless you're bonding latex to PVC, then superglue is usable but brittle; wouldn't recommend it).
+* **Tape:** Duct tape is a nightmare to clean off.
+* **Lubes:** Vaseline is okay for vinyl *short-term* (wash off fast), but keep them away from latex. Water-based lube should be safe long-term, but I'd still clean it off.
+* **Household vacuum cleaners:** Not only does this cause punctures and tears in the vinyl from the rotating "beater bar" or bristle brush (it's why it's so effective at popping balloons), it can also damage the vacuum if there was moisture inside of the inflatable.
 
-.Recommended at least every 3 days during active use:
-. Prepare a cleaning solution in a 950 mL (32 oz) spray bottle:
-** Fill halfway with warm water.
-** Add 60 mL (4 tablespoons) of non-concentrated dish soap.
-** Top off with warm water.
+=== Inflation Setup
+Using your lungs is likely to build up mold inside the inflatables, so we need a tool instead.
 
-. Use two microfiber cloths: one for wiping off soap and one for drying.
+* **Hand Pump:** https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport Double-Action]. Reliable.
+* **Electric:** MetroVac is the gold standard.
+** https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] (4.0HP if you're impatient).
+** International? Grab the https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
+** *Pro-tip:* Get a https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller] to tame the noise/heat, and the https://metrovac.com/products/inflator-adapter[MVC-211C-AS adapter].
+* **The order in which to inflate:** Legs -> Body -> Arms -> Head.
+* **Always test the pressure of each inflatable chamber:** For example, if you are sitting or laying on it, before getting on -- feel on whether it gives (if it feels like a tire / has zero give, deflate a little bit). You should also test the feeling while sitting or laying on it, again if it's too "rock solid", deflate somewhat. You can optionally use an https://playitagainsports.com/locations/boise-id/product/KWTAHPG-1/Airhead-Pressure-Gauge[Airhead PSI pressure gauge] to measure the pressure to take note of what's safe for each inflatable, as each one is different.
+** The rule of thumb for PVC (vinyl) inflatables with 0.4mm thickness is to keep it to 0.5 PSI up to 0.8 PSI, but some inflatables break this rule and it's why you need to feel how much pressure there is for yourself.
 
-== Detecting Leaks
+== Doing Repairs
 
-To find leaks effectively:
+So you popped a seam. It happens. Here's how to fix it properly.
 
-. Inflate the item until it feels very firm.
+=== Finding the Leak
 
-. Apply an even mixture from the prepared spray bottle and spread it with your hands, making the surface feel soapy.
-** Look for expanding bubbles, which may take hours to appear unless pressure is applied to suspected areas.
+. Inflate it until it's drum-tight.
+. Spray your soapy water mix (from the cleaning section) all over. Use your hands to spread it.
+. Watch for bubbles. If it's a slow leak, you might need to apply pressure and wait.
+** Usually leaks happen at creases or other places where the inflatable has the highest chance of having a seam split.
 
-== Applying Vinyl Glue
+=== The Glue & Tools
 
-=== Safety Warnings
-. Work outdoors if possible to minimize hazards.
+Don't use random stuff from the hardware store.
 
-. If working indoors:
-** Ensure rapid air exhaustion using a high-velocity fan or similar.
-** Avoid working near electronics, as sparks with fumes can cause flash fires.
-** Wear a gas mask or painter respirator, such as the https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell North 7700 series]. Cheaper options like 3M exist but may require frequent replacement.
+. **The Glue:**
+** *Top Tier:* Boxer Vinyl Adhesive #100 (16oz). Expensive but worth it.
+** *Good Alternative:* https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic].
+** *Bulk/Budget:* https://rhadhesives.com/product/hh-66-vinyl-cement-toluene-free-2[HH-66 Vinyl Cement (Toluene Free)]. Don't get the toxic Toluene version.
 
-. As vinyl glue is toxic before dying, handle it using polyethylene gloves. Avoid both nitrile and vinyl gloves as it'll stick to the glue, and avoid latex gloves as the MEK solvent in the vinyl glue will dissolve the latex.
+. **The Gear:**
+** *Cutting:* https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa 60mm Rotary Cutter] + Self-healing mat.
+** *Trimming:* https://www.amazon.com/Swingline-Trimmer-Guillotine-Capacity-ClassicCut/dp/B016LDV41S[12" Paper Guillotine] (great at making strips) and good scissors (Tim Holtz Titanium).
+** *Applying:* https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[Rubber Brayer] and 10mL syringes with 19-gauge blunt tips.
+** *Protection:* https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B008WZZ11S[ScotchBlue Painter's Tape] and "Food Safe" Polyethylene gloves.
+** *Practice Inflatables:* https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas].
 
-. Use vinyl no thicker than 0.4mm (16 gauge/16 mil) for patches or reinforcements. Thicker vinyl (0.6mm+) is difficult to cut, adheres poorly, and stresses surrounding material. For 0.3mm (12 gauge/12 mil) inflatables (e.g., from Inflatable World), match the thickness.
+=== Safety
 
-=== Seam Types and Information
-. *Pinch seams*: Common and cost-effective; formed by pinching and welding vinyl. Recognizable by a raised lip.
-** Prone to splitting under stress; reinforce by gluing a vinyl strip over the seam to bond both sides. +
+* **Ventilation:** Work outside if you can. If indoors, you need a high-velocity fan exhausting air. Fumes from the glue + sparks = fire.
+* **PPE:** Wear a good respirator (like a https://www.amazon.com/Honeywell-770030L-North-Facepiece-Silicone/dp/B009SB4YUY[Honeywell 7700]).
+* **Gloves:** Use Polyethylene. Nitrile/Vinyl gloves will stick to the glue, and Latex gloves will melt from the MEK solvent in the glue.
+
+=== Seam Types 101
+
+* **Pinch Seams:** The most common, a raised lip. They split easily.
+** *Fix:* Glue a vinyl strip over the lip to bond both sides together. +
 image:pinch_seam.png[480,240]
-
-. *Negative curves*: Curved pinch seams (e.g., head to nose). Identified by higher tension.
-** Reinforce similarly to pinch seams. +
+* **Negative Curves:** Pinch seams on curves (like neck/nose). High tension areas. Reinforcing these as soon as possible is optimal. +
 image:negative_curve.jpg[480,240]
-
-. *Flat seams*: Durable and costly; overlapping vinyl welded on both sides. Generally does not require repair. +
+* **Flat (Overlap) Seams:** One layer over another. Very strong, rarely need fixing. +
 image:flat_seams.jpg[480,240]
+* **Reinforced Butt Seams:** The tank armor of seams.
 
-=== The Procedure
-. Purchase glue:
-** Boxer Vinyl Adhesive #100 16oz / 1 pint. The best, but at a high price.
-** https://www.loctiteproducts.com/en/products/specialty-products/specialty/loctite_vinyl_fabricplasticflexibleadhesive.html[Loctite Vinyl, Fabric & Plastic Adhesive]. An alternative to Boxer Vinyl Adhesive if you can't source it in your country.
-** https://rhadhesives.com/product/hh-66-vinyl-cement-toluene-free-2[HH-66 Toluene Free Vinyl Cement]. Cheap in bulk; do not buy the variant containing Toluene.
+=== The Patching Procedure
 
-. Acquire tools:
-** Rotary cutter: https://www.amazon.com/Olfa-Deluxe-Rotary-Cutter-60mm/dp/B001CE5DLE[Olfa's 60mm ergonomic model] for ease and replaceable blades.
-** Brayer roller: https://www.amazon.com/VinBee-Rubber-Brayer-Applicator-Painting/dp/B07R8PMSVB[VinBee's soft rubber tool] (avoid latex-containing options).
-** Paper guillotine: https://www.amazon.com/Swingline-Trimmer-Guillotine-Capacity-ClassicCut/dp/B016LDV41S[Swingline's ClassicCut Lite 12"] is all you need, larger sizes don't matter.
-** Scissors: Tim Holtz https://www.amazon.com/Tim-Holtz-Small-Titanium-Scissors/dp/B0013JNERS[7 inch] for trimming miscuts and https://www.amazon.com/Tim-Holtz-Scissors-All-Purpose/dp/B00JG9OV5G[9.5 inch] for cutting strips (prefer using a paper guillotine when possible).
+. **Prep:** Clean the area with alcohol. Test a small spot first to make sure it doesn't strip paint.
+** If you want to be 100% sure, use a UV flashlight to inspect. The list of the https://1lumen.com/best-uv-flashlight/[best UV flashlights] at their given price points, and the https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[safety goggles] you'll need to protect yourself from the UV light.
+. **Cut:** Make your vinyl strips exactly 2cm wide. Use your guillotine cutter initially to make the strips in bulk, then perfect the cuts with a rotary cutter and/or scissors if needed.
+. **Glue:**
+** Fill your syringe (tap out air bubbles!).
+** Apply a thin, even layer *on the strip*, not the toy.
+** Do at least two coats (let the first one dry/tack up).
+. **Apply:**
+** Press it down. Use the brayer or most of your hands.
+** Hold pressure for at least 25 seconds. Keep it flat.
+. **Finish:** Put a little extra glue at the edges of the strip to seal it.
 
-** Painters tape: https://www.amazon.com/ScotchBlue-Painters-Multi-Use-1-88-Inch-60-Yard/dp/B008WZZ11S[ScotchBlue 1.88 inch x 60 yards]. Other brands can have an issue with being too sticky. Going above 2cm wide for vinyl strips is usually not recommended, therefore we don't need painters tape wider than this.
+=== Pro-Tips for Repairs
 
-** Polyethylene gloves: Get the ones considered as "food safe grade" / for food prep.
-
-** Practice items: Multiple https://www.amazon.com/Intex-Whale-Inflatable-Pool-Ride/dp/B00004YTPV[Intex Orcas] for chamber separation and seam reinforcement; https://www.amazon.com/Intex-Unicorn-Inflatable-Ride-Float/dp/B073685W74[Intex Unicorn Ride-Ons] for negative seams.
-
-. Cutting vinyl:
-** Use rotary cutter along a ruler on a self-healing mat (OLFA or Dahle brand) for straight cuts.
-** Correct veering with scissors.
-** Use a paper guillotine for precise cuts on smaller sheets; sizes vary by inflatable.
-
-. Dispensing glue: Fill a 10mL syringe with HH-66, I recommend starting with 4mL of glue for small repairs, and attach a 19-gauge blunt tip (lower gauges leak; higher is too restrictive). 
-- Avoid air in syringe.
-- If there's air in the syringe, tap hard repeatedly where the bubbles are to force those bubbles to move up the syringe, then push the syringe until glue comes out.
-
-. Clean the surface of the inflatable for where you wish to glue with alcohol. Be sure to test in a non-visible part of the inflatable on whether this removes paint or not before proceeding.
-- Optionally, use a UV flashlight for inspection; wear polycarbonate goggles to protect your eyes from UV light (e.g., https://www.amazon.com/NoCry-Safety-Goggles-Over-Glasses/dp/B08Y5JTKMQ[NoCry ANSI Z87.1 Goggles] or https://www.amazon.com/Tool-Klean-Safety-Glasses-Protection/dp/B081BHTJT8[Tool Klean Safety Glasses]).
-** Read 1lumen's "https://1lumen.com/best-uv-flashlight[The Best UV Flashlights tested]" for tips on what to buy.
-
-. Apply glue:
-** Evenly and thinly, spread out under the vinyl strip. Do not directly put glue on the inflatable.
-** Work in sections slowly.
-** Avoid excess in one area.
-** At the edge of each strip to finish it off and close it up. You should use at least two layers of glue (wait for the previous coat of glue to dry before doing another) to ensure a proper seal.
-
-. For the vinyl strips:
-** Make them each 2cm wide, no smaller, no larger.
-** Apply pressure to each glued down vinyl strip for no less than 25 seconds. Ensure the pressure doesn't cause creases and keeps the vinyl strip flat.
-
-=== Tips and Tricks
-. Heat (e.g., from sunlight) aids glue removal.
-
-. Cut the corners of your vinyl strips to be rounded. Neglecting this will lead to patches that pry up overtime from skin oil exposure.
-** Wrong vinyl strip shape: +
+* **Round your corners!** Square corners peel up.
+** *Wrong:* +
 image:wrong_vinyl_strip.png[480,480]
-** Correct vinyl strip shape: +
+** *Right:* +
 image:correct_vinyl_strip.png[480,480]
+* **Heat helps:** Sunlight or a hair dryer makes glue removal easier.
+* **Pinholes:** You can glue these while the toy is inflated. The escaping air won't stop the glue from sticking. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[See video].
+* **Deep Leaks:** If the leak is between layers, you might need to poke a tiny needle hole to inject glue inside.
+* **Printed Vinyl:** Glue doesn't stick to ink well. Tape the tear, cut a slit from the back, patch the inside (white-to-white), then patch your access slit.
+* **Stress Zones:** On an inflatable suit, for the armpits/crotch regions, use an "X" pattern with 3/4" strips.
+* **Cleaning up glue:** Acetone or https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner]. Use a syringe or lint-free cloth. **Never** use Q-tips (cotton fibers ruin the finish).
 
-. Glue pinhole leaks while inflated. It can be still soapy from the spray you used to detect pinhole leaks, the glue will continue to stick. https://www.youtube.com/watch?v=08nekhnT0rI&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp&index=9&pp=iAQB[A video example].
+=== Material Thickness Guide
 
-. Leaks can be deeper inside vinyl instead of at the edges, meaning gluing the edges wouldn't fully solve the issue. Press and feel around the leak, try to make bubbles come out from the pressure of your finger(s).
-** If it's multi-layered vinyl, you may have to create a 19 gauge needle sized hole and inject glue in if the leak is deep.
+* **Patches:** 0.4mm (16 gauge) max. Anything thicker (0.6mm+) is too stiff and will peel.
+* **Inflatables:** For standard 0.3mm toys, match the thickness.
+* **Latex:** 0.8mm is heavy and "jiggly" but can peel seams under tension.
+* **Latex on PVC:** Use neoprene cement. It's not permanent (PVC rots latex eventually), so treat it as consumable.
 
-== Removing glue
-Use Acetone applied to a lint-free microfiber cloth or a blunt-tip syringe and gently work your way into the vinyl glue you plan on removing.
+== Advanced Restoration & Mods
 
-Do not use Q-tips (cotton swabs), their cotton fibers will get stuck, which will ruin the finish of the vinyl. 
+For when you want to restore an old favorite or customize something new.
 
-== Inflation Tools
-* Double-action hand pump: https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport].
-* Automatic options: MetroVac's https://metrovac.com/products/magicair-electric-inflator-deflator-110-idar[110-IDAR] or https://metrovac.com/products/magicair-deluxe-inflator-deflator-dida-1[DIDA-1] at 4.0HP (best overall). For non-U.S. outlets: https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
-** Reduce its noise and heat with a https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller]. 
-** Also include a https://metrovac.com/products/inflator-adapter[MVC-211C-AS] adapter with your purchase.
+=== Plasticizers: Restoring the Squish
 
-== Plasticizer section
+Vinyl gets hard and brittle over time. Plasticizers bring it back.
 
-=== DINP or ATBC (and other non-phthalates)?
-- DINP has greater elasticity, does not damage any types of paint, and reduces leaching from skin oils or sunlight. It also prevents vinyl paint cracking due to the greater elasticity. Its longevity is also a strong suit that non-phthalates lack.
+* **Why DINP?** It's the king. Superior elasticity, protects paint, and lasts seemingly forever. Non-phthalates (like ATBC) don't last as long, can cause sticking issues, and some (ATBC) do not restore elasticity. I do not recommend buying any plasticizers mixes like what Vinyl Vibe Studio sells, as their health effects aren't tested and their claims of being "healthy" for an inflatable is questionable at best.
 
-=== Key Studies on DINP Health Effects (read in order)
-The conclusion from these studies: DINP's risks are lower than other phthalates (e.g., DEP, DEHP); the main risk with phthalates however is if they're in aerosol form. DINP can be considered as non-harmful to humans for the inflatable treatment use case.
+* **Health Check:** Studies suggest DINP is safer than older phthalates (DEHP). Just don't eat your inflatables.
+** *Key Reads:* https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/[Phthalates in Food], https://pmc.ncbi.nlm.nih.gov/articles/PMC8677456/[Impact on Colon Cells], https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf[EPA Risk Evaluation].
+* **Application:**
+** Wear polyethylene or latex gloves. Wash your skin immediately if there was any skin contact.
+** It's possible to apply internally (pour into valve) for increased safety, though an external application is recommended as it makes the seams not weaken (as long as you don't apply DINP to seams), and it's easier to control how much is applied.
+** Heat (a hot bath or space heater) speeds up absorption.
+* **Buying DINP:** https://inflationresource.org/product/dinp/[Inflationresource] has it for the best price, but still presents the same issue of shipping times being weeks, just like Alibaba. Alibaba is overpriced. Avoid diluted DINP (with sunflower oil) which can happen on Alibaba.
 
-. https://pmc.ncbi.nlm.nih.gov/articles/PMC7460375/[Critical Review on the Presence of Phthalates in Food and Evidence of Their Biological Impact]
-. https://pmc.ncbi.nlm.nih.gov/articles/PMC8677456/[The Impact of Di-Isononyl Phthalate Exposure on Specialized Epithelial Cells in the Colon]
-. https://www.epa.gov/system/files/documents/2025-01/16.-dinp-.-exposure-consumer-indoor-dust-.-public-release-.-hero-.-jan-2025.pdf[Consumer and Indoor Exposure Assessment for Diisononyl Phthalate (DINP) +
-Technical Support Document for the Risk Evaluation]
+=== Enlarging (At your own risk)
 
-=== Safety or Other Warnings
-. There is higher exposure from mouthing DINP-treated vinyl (per EPA) than touching it. Touching it is safe once DINP is absorbed into the inflatable.
-** In the European Union they've restricted usage of DINP in toys that can be taken into the mouth.
+Want it bigger? You can stretch it, but it weakens the seams.
 
-. Use polyethylene gloves during application.
+* **Methods:** Prolonged sun exposure, steam injection, or over-inflating for 3 days in a warm room.
+* *Warning:* This deforms the vinyl permanently.
 
-. Wash if there's skin contact with HH-66 glue or DINP immediately.
+=== Painting & Mods
 
-. Apply DINP internally via the inflatable's valve(s) for safety; this will weaken seams compared to applying them externally with gloves on.
+* **Painting:** Use a https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit]. If your paint base isn't cyclohexanone, it might not stick to the vinyl well.
+* **Replacing Valves:**
+** Need big valves? https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] has them.
+** Tubing: 5/16" ID, 7/16" OD for standard valves.
+** **CPAP:** Connect snorkel mouthpieces to CPAP masks with 3/4" flex PVC tube and silicone tape.
 
-. Alibaba sellers overcharge for DINP (~$100/kg + $80+ shipping).
+== Resources & Credits
 
-. Some suppliers (e.g., Sigma-Aldrich) restrict to approved buyers only. Meaning you'd need to be a chemist working for a company, and to order the ATBC/DINP/DINCH through said company.
+=== Video Tutorials
+. https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks Playlist] (Highly recommended)
+. https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon's Tutorials] (Skip the "Removing Safety Flaps" ones)
+. https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques]
 
-. Beware of diluted products (e.g., with sunflower oil, harmful to inflatables).
-
-=== Plasticizer sellers
-. https://inflationresource.org/product/dinp/[Inflationresource]
-. https://vinylvibestudio.co/[Vinyl Vibe Studio], I don't recommend them due to being overpriced and for not selling DINP. If you need to be convinced that DINP is the best, get a bunch of Intex whales (modern ones are treated with DINCH) and treat them with each plasticizer separately and compare. Keep in mind that the longevity of alternatives to DINP is poor except for TOTH (but TOTH is "stiff").
-
-== Enlarging an Inflatable
-CAUTION: This weakens seams and causes permanent deformation.
-
-.Methods include:
-. Prolonged direct sunlight exposure.
-
-. Using a steam cleaner to inject steam.
-
-. Over-inflating for 3 days (accelerated by high humidity/temperature).
-
-== [TODO] Vinyl Glue Removal
-. Use https://rhadhesives.com/product/hh-66-thinner/[HH-66 Thinner] or acetone via blunt-tip syringes (avoid cotton swabs).
-. Combine with hair dryer for residue removal.
-
-== [TODO] Painting Vinyl
-. Use a https://www.amazon.com/gp/product/B0D9NJZHJS[Gocheer Airbrush Kit - 48 PSI] for compact touch-ups.
-. If the paint base is not cyclohexanone then the results may vary.
-
-== [TODO] Replacing Vinyl Plugs/Valves
-.Large valves (for all but small chambers like ears):
-. From https://candycoatedus.com/new-large-double-bung-valves-3-pack/[Candy Coated Squeaks] (overpriced but fast shipping).
-
-== Video Tutorials/Education
-
-The following resources are recommended in order from most to least preferred:
-
-. https://www.youtube.com/watch?v=2NONTGpZffY&list=PL5_NdwXbrBVsTo8x8MIfr6TTWFCJoZ9Xp[Candy Coated Squeaks] repair video playlist.
-. https://www.youtube.com/watch?v=eQoV6w_nuSQ&list=PLUUZYWUDSf9-zPTeexPXWFctnNxGvscPc[Heath Dragon]'s how-to and tutorials playlist.
-** Note: Ignore the following videos due to low quality: "Removing the Safety Flaps from Inflatable Toy Valves" and "Replacing Valves on Inflatable Toys".
-. https://www.youtube.com/watch?v=9F0fjaHhgzo[Inflatable Seaming Techniques].
-
-== Appendices
-. Some images were sourced from:
-** https://meh.com/forum/topics/inflatable-of-the-day-45
-
-** https://www.inflatableworld-wsp.de/
-
-** Candy Coated Squeaks' YouTube videos
-
+=== Image Credits
+* https://meh.com/forum/topics/inflatable-of-the-day-45
+* https://www.inflatableworld-wsp.de/
+* Candy Coated Squeaks
