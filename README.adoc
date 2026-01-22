@@ -58,6 +58,7 @@ Regular maintenance keeps the inflatable happy.
 === What NOT to use (The "Do Not Touch" List)
 These things will ruin vinyl:
 
+* **Inflating while its surface temperature is below 50°F/10°C or above 100°F/38°C:** Too cold leads to the vinyl becoming rigid and brittle like glass, causing air pressure to snap or shatter the vinyl. Too hot leads to the vinyl softening which stretches the vinyl -- leading to a permanent deformity, and the seam bonds can weaken from excessive heat making seam bursts easier.
 * **Oils:** Baby oil, coconut oil, mineral oil, veggie oil.
 * **Solvents:** WD-40, lithium grease, most sprays.
 * **Soaps:** Concentrated dish soap (stick to non-concentrated).
@@ -75,6 +76,7 @@ Using your lungs is likely to build up mold inside the inflatables, so we need a
 ** International? Grab the https://metrovac.com/products/copy-of-magicair%C2%AE-electric-inflator-deflator-pump-220-idar[220-IDAR] or https://metrovac.com/products/220-240v-magicair%C2%AE-deluxe-inflator-deflator-pump-dida-4[DIDA-4].
 ** *Pro-tip:* Get a https://www.amazon.com/Versatile-Motor-Speed-Controller-Protection/dp/B09LQP5RDB[motor speed controller] to tame the noise/heat, and the https://metrovac.com/products/inflator-adapter[MVC-211C-AS adapter].
 * **The order in which to inflate:** Legs -> Body -> Arms -> Head.
+* **Optimal room temperature range to inflate:** 65°F to 75°F (18°C to 24°C).
 * **Always test the pressure of each inflatable chamber:** For example, if you are sitting or laying on it, before getting on -- feel on whether it gives (if it feels like a tire / has zero give, deflate a little bit). You should also test the feeling while sitting or laying on it, again if it's too "rock solid", deflate somewhat. You can optionally use an https://playitagainsports.com/locations/boise-id/product/KWTAHPG-1/Airhead-Pressure-Gauge[Airhead PSI pressure gauge] to measure the pressure to take note of what's safe for each inflatable, as each one is different.
 ** The rule of thumb for PVC (vinyl) inflatables with 0.4mm thickness is to keep it to 0.5 PSI up to 0.8 PSI, but some inflatables break this rule and it's why you need to feel how much pressure there is for yourself.
 
