@@ -15,7 +15,9 @@ endif::[]
 Keeping your gear in top shape starts with how you treat it when you're not patching it. Here’s the rundown on daily care.
 
 === Storing your gear
-If you want your inflatables to last, don't just shove them in a bin.
+If you want your inflatables to last, don't just shove them in a bin in a cold basement.
+
+If there's "sweat" or stickiness on the vinyl or discoloration, those are strong indicators that the inflatables are being stored improperly.
 
 . **The safest way to pack (downside: takes up more space):**
 * Squeeze all the air out but keep the valves open.
@@ -31,9 +33,9 @@ image:LEAFICO_cotton_bags.jpg[480,240]
 ** *Bad:* Anything that seals airtight, if there was any moisture it may grow mold.
 
 . **Where to put them:**
-** Keep them cool. Hot cars are death traps for soft vinyl (plasticizer migration = brittle toy).
-** Don't hang them up.
-** If you have items with ATBC plasticizer (instead of DINP), don't let the vinyl touch itself or it might bond. Use thin 1/16" foam sheets between layers, or powder them (corn starch for vinyl, unscented talc for latex -- though talc is messy).
+** Keep them cool but not cold. Hot cars or other environments are death traps for soft vinyl (plasticizer migration = brittle toy). The optimal temperature range to store is 65°F to 75°F (18°C to 24°C), though you can go as low as 52°F (11.1°C).
+** Don't hang them up, it deforms vinyl and latex overtime.
+** If you have inflatables with ATBC plasticizer (instead of DINP), don't let the vinyl touch itself or it might bond and leach plasticizer. Use thin 1/16" foam sheets between layers, or powder them (corn starch for vinyl, unscented talc for latex -- though talc is messy).
 ** Always put a https://www.amazon.com/Dry-Premium-Packets-Desiccant-Dehumidifiers/dp/B01A0782Q6[300g Rechargable Silica Gel] inside of each undyed cotton bag, it will keep out moisture and can be "recharged" to make it reusable again. You will have to check the weight of the Silica Gel every month to be able to tell on whether to "recharge" it.
 
 
@@ -58,17 +60,20 @@ Regular maintenance keeps the inflatable happy.
 === What NOT to use (The "Do Not Touch" List)
 These things will ruin vinyl:
 
-* **Inflating while its surface temperature is below 50°F/10°C or above 100°F/38°C:** Too cold leads to the vinyl becoming rigid and brittle like glass, causing air pressure to snap or shatter the vinyl. Too hot leads to the vinyl softening which stretches the vinyl -- leading to a permanent deformity, and the seam bonds can weaken from excessive heat making seam bursts easier.
-* **Oils:** Baby oil, coconut oil, mineral oil, veggie oil.
-* **Solvents:** WD-40, lithium grease, most sprays.
+* **Oils:** Baby Oil, Coconut Oil, Mineral Oil, Veggie Oil, Tanning Oil, Avobenzone.
+* **Solvents:** WD-40, Lithium Grease, Insect Repellent (contains https://en.wikipedia.org/wiki/DEET[DEET] or Picaridin), Acetone (use for repairs, not cleaning) / Nail Polish Remover, Ethanol, Hair Sprays.
+* **Preservatives:** Phenoxyethanol.
 * **Soaps:** Concentrated dish soap (stick to non-concentrated).
-* **Glues:** Gorilla Glue, Superglue (unless you're bonding latex to PVC, then superglue is usable but brittle; wouldn't recommend it).
-* **Tape:** Duct tape is a nightmare to clean off.
-* **Lubes:** Vaseline is okay for vinyl *short-term* (wash off fast), but keep them away from latex. Water-based lube should be safe long-term, but I'd still clean it off.
-* **Household vacuum cleaners:** Not only does this cause punctures and tears in the vinyl from the rotating "beater bar" or bristle brush (it's why it's so effective at popping balloons), it can also damage the vacuum if there was moisture inside of the inflatable.
+* **Glues:** Gorilla Glue, Hot Glue Guns, Superglue (unless you're bonding latex to PVC, then superglue is usable but brittle; wouldn't recommend it).
+* **Sunscreens:** Any. "Reef Safe" or Mineral Sunscreens or Oil-Free Lotions are safer to vinyl, but still will cause issues.
+* **Magic erasers:** "Melamine foam"; they sand away at the vinyl harshly and dull the glossiness or strip the paint. Might be good for specific repairs but I have not tested yet.
+* **Tape:** Duct Tape is a nightmare to clean off.
+* **Lubes:** Vaseline is okay for vinyl *short-term* (wash off fast), but keep them away from latex. Water-based Lube should be safe long-term, but I'd still clean it off.
+* **Household vacuum cleaners:** Not only does this cause punctures and tears in the vinyl from the rotating "Beater Bar" or Bristle Brush (it's why it's so effective at popping balloons), it can also damage the vacuum if there was moisture inside of the inflatable.
+* **Other:** Gasoline, Diesel, Kerosene, Xylene / Aromatics, Undiluted Granular Chlorine (Calcium Hypochlorite or Dichlor), Alkaline Battery acid.
 
 === Inflation Setup
-Using your lungs is likely to build up mold inside the inflatables, so we need a tool instead.
+Using your lungs is likely to build up mold inside the inflatables, so we need a tool instead. Also, inflating while its surface temperature is below 50°F/10°C or above 100°F/38°C leads to issues. Too cold makes vinyl rigid and brittle like glass, causing air pressure to snap or shatter the vinyl. Too hot makes vinyl soften and stretch -- leading to a permanent deformity, and the seam bonds also weaken which makes seam bursting easier.
 
 * **Hand Pump:** https://www.amazon.com/Texsport-Double-Action-Hand-Mattress/dp/B000P9IRVK[Texsport Double-Action]. Reliable.
 * **Electric:** MetroVac is the gold standard.
@@ -79,6 +84,8 @@ Using your lungs is likely to build up mold inside the inflatables, so we need a
 * **Optimal room temperature range to inflate:** 65°F to 75°F (18°C to 24°C).
 * **Always test the pressure of each inflatable chamber:** For example, if you are sitting or laying on it, before getting on -- feel on whether it gives (if it feels like a tire / has zero give, deflate a little bit). You should also test the feeling while sitting or laying on it, again if it's too "rock solid", deflate somewhat. You can optionally use an https://playitagainsports.com/locations/boise-id/product/KWTAHPG-1/Airhead-Pressure-Gauge[Airhead PSI pressure gauge] to measure the pressure to take note of what's safe for each inflatable, as each one is different.
 ** The rule of thumb for PVC (vinyl) inflatables with 0.4mm thickness is to keep it to 0.5 PSI up to 0.8 PSI, but some inflatables break this rule and it's why you need to feel how much pressure there is for yourself.
+** Surface temperature of the vinyl influences the PSI directly, meaning it could be 80F in-air but 100F on the surface due to sunlight; here's a chart that clearly shows this: +
+image:pressure_graph.png[]
 
 == Doing Repairs
 
